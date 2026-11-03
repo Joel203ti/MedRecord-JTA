@@ -1,0 +1,13 @@
+# Secrets
+.env
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Runtime
+uploads/*
+!uploads/.gitkeep
+# IDE
+.vscode/settings.json
+.DS_Store
